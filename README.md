@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Odoo Apps](https://img.shields.io/badge/CodersRank-informational?style=flat-square&logo=CodersRank&logoColor=white&color=67a4ac)](https://apps.odoo.com/apps/)
 
 ```python 
-class DavidMonteroCrespo(self):
+class MatiasBanega(self):
         self.username = 'matiasbanega'
         self.name = 'Matias Banega'
         self.web = 'https://banegamatias.com.ar'
@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasBanega&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBanega24&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBanega&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=MatiasBanega&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
